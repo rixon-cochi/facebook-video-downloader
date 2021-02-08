@@ -6,4 +6,5 @@ clear
 cd /sdcard/FBVIDEO
 rm -rf requirements.txt
 cd /sdcard/FBVIDEO
+echo ""
 python fbvideo.py
