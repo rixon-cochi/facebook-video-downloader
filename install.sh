@@ -1,18 +1,17 @@
 #!/bin/bash
-apt update -y
-apt upgrade -y
-apt install curl -y
-apt install php -y
-apt install figlet -y
+apt update
+apt upgrade
+apt install curl
+apt install php
+apt install figlet
 pip install --upgrade pip
 clear
 echo
 echo
 echo
 clear
-cd /sdcard
-mkdir FBVIDEO
-cd FBVIDEO
+mkdir /sdcard/FBVIDEO
+cd /sdcard/FBVIDEO
 curl https://raw.githubusercontent.com/rixon-cochi/rixon-cochi/main/fbvideo.py >> fbvideo.py
 clear
 curl https://raw.githubusercontent.com/rixon-cochi/rixon-cochi/main/requirements.txt >> requirements.txt
