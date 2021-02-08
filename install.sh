@@ -1,9 +1,9 @@
 #!/bin/bash
-apt update
-apt upgrade
-apt install curl
-apt install php
-apt install figlet
+pkg update -y
+pkg upgrade -y
+pkg install curl
+pkg install php -y
+pkg install figlet -y
 pip install --upgrade pip
 clear
 echo
@@ -17,11 +17,11 @@ clear
 curl https://raw.githubusercontent.com/rixon-cochi/rixon-cochi/main/requirements.txt >> requirements.txt
 clear
 echo ' code developer TECH COCHI '
-sleep 4
+sleep 6
 xdg-open https://www.youtube.com/c/TECHCOCHI2
 echo 
 sleep 6
-clear
+echo ' now enter bash run.sh '
 
 
 
