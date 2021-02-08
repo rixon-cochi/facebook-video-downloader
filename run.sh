@@ -5,5 +5,5 @@ pip2 install -r requirements.txt
 clear
 cd /sdcard/FBVIDEO
 rm -rf requirements.txt
-clear
+cd /sdcard/FBVIDEO
 python fbvideo.py
