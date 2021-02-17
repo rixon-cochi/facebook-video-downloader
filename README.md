@@ -1,6 +1,6 @@
 # facebook-video-downloader
 
-![](https://github.com/rixon-cochi/facebook-video-downloader/blob/main/IMG/Download-Button-with-Circular-Progress-Indicator-%E2%80%93-CodeMyUI-izsXouz8Rjg3XM.jpg)
+<p align="center"><a href="https://github.com/rixon-cochi"><img src="https://github.com/rixon-cochi/facebook-video-downloader/blob/main/IMG/Download-Button-with-Circular-Progress-Indicator-%E2%80%93-CodeMyUI-izsXouz8Rjg3XM.jpg"=alt"bt">
 
 ![](https://github.com/rixon-cochi/facebook-video-downloader/blob/main/IMG/20210208_211755.jpg)
 
