@@ -19,6 +19,9 @@ xdg-open https://www.youtube.com/c/TECHCOCHI2
 echo 
 sleep 6
 echo " now enter bash run.sh "
-
-
-
+sleep 10
+echo " create account on ecoin "
+echo " set your browser "
+termux-open-url https://earnecoin.com/refer/l34esv0
+echo ""
+echo " DOWNLOAD VIDEO ON YOUR SDCARD FOLDER NAME FBVIDEO "
