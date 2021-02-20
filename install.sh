@@ -20,8 +20,8 @@ echo
 sleep 6
 echo " now enter bash run.sh "
 sleep 10
-echo " create account on ecoin "
+echo " create account on cashkaro.com "
 echo " set your browser "
-termux-open-url https://earnecoin.com/refer/l34esv0
+termux-open-url https://cashkaro.com?r=8026255&fname=Rixon
 echo ""
 echo " DOWNLOAD VIDEO ON YOUR SDCARD FOLDER NAME FBVIDEO "
